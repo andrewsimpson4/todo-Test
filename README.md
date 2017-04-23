@@ -3,7 +3,7 @@ Todo list test project.
 
 When in the app...
 
-double tap = delete
+double tap = delete \n
 press and hold = edit
 
 Thanks
